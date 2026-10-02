@@ -1,0 +1,23 @@
+# GitHub QR Code Generator
+
+A simple Python project that generates a QR code using the `qrcode` library.
+
+### 🛠️ Tech Used
+
+* Python
+* qrcode
+* image
+
+### 🚀 Run
+
+```bash
+pip install qrcode
+pip install image
+python qr_generator.py
+```
+
+The generated QR code is saved as `github.png`.
+
+### 👨‍💻 Author
+
+**Sahib Sasan**
